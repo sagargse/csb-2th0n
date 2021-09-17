@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sagargse.github.io/csb-2th0n/static/css/main.6c965f6e.chunk.css",
+    "main.js": "https://sagargse.github.io/csb-2th0n/static/js/main.25d10b49.chunk.js",
+    "main.js.map": "https://sagargse.github.io/csb-2th0n/static/js/main.25d10b49.chunk.js.map",
+    "runtime-main.js": "https://sagargse.github.io/csb-2th0n/static/js/runtime-main.28dd4ca9.js",
+    "runtime-main.js.map": "https://sagargse.github.io/csb-2th0n/static/js/runtime-main.28dd4ca9.js.map",
+    "static/js/2.3b1218a2.chunk.js": "https://sagargse.github.io/csb-2th0n/static/js/2.3b1218a2.chunk.js",
+    "static/js/2.3b1218a2.chunk.js.map": "https://sagargse.github.io/csb-2th0n/static/js/2.3b1218a2.chunk.js.map",
+    "index.html": "https://sagargse.github.io/csb-2th0n/index.html",
+    "static/css/main.6c965f6e.chunk.css.map": "https://sagargse.github.io/csb-2th0n/static/css/main.6c965f6e.chunk.css.map",
+    "static/js/2.3b1218a2.chunk.js.LICENSE.txt": "https://sagargse.github.io/csb-2th0n/static/js/2.3b1218a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28dd4ca9.js",
+    "static/js/2.3b1218a2.chunk.js",
+    "static/css/main.6c965f6e.chunk.css",
+    "static/js/main.25d10b49.chunk.js"
+  ]
+}
